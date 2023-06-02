@@ -1,3 +1,3 @@
-- 👋 Привет, Я @4aeok4ek
-- 👀 Я заинтересован в Программирование и Гейминге
-- 🥞 Мой Тик Ток - 4aeok4ek
+- 👋 Hello, I @4aeok4ek
+- 👀 I am interested in programming and gaming
+- ☕️ You can call me, Tea
